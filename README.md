@@ -1,13 +1,12 @@
-<div align=center> Hi there 👋
- 😌 My name is JaeYeon Cho
+ Hi there 👋
+#### My name is JaeYeon Cho 😌
 
 - I'm a web developer.
  
-<hr>
-- 🍎I love...
- 💻Programming, 💪Exercise, 📺Drama, 🎮Game, 🐈My Cat
+#### 🍎I love...
+- 💻Programming, 💪Exercise, 📺Drama, 🎮Game, 🐈My Cat
 
-</div>
+
 
 
 <!--
