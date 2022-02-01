@@ -1,4 +1,10 @@
 ### Hi there 👋
+### 😌 My name is JaeYeon Cho
+
+### I'm a web developer.
+
+### 🍎I love...
+💻Programming, 💪Exercise, 📺Drama, 🎮Game, 🐈My Cat
 
 <!--
 **helloSaltedCaramel/helloSaltedCaramel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
