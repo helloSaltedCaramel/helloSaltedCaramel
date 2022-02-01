@@ -5,7 +5,7 @@
 
 <hr>
 #### 🍎I love...
-💻Programming, 💪Exercise, 📺Drama, 🎮Game, 🐈My Cat
+#### 💻Programming, 💪Exercise, 📺Drama, 🎮Game, 🐈My Cat
 <hr>
 
 <!--
