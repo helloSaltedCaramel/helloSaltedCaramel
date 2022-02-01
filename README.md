@@ -3,8 +3,10 @@
 
 #### I'm a web developer.
 
+<hr>
 #### 🍎I love...
 💻Programming, 💪Exercise, 📺Drama, 🎮Game, 🐈My Cat
+<hr>
 
 <!--
 **helloSaltedCaramel/helloSaltedCaramel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
