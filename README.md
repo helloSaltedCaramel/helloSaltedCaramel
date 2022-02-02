@@ -7,7 +7,7 @@
 - 💻Programming, 💪Exercise, 📺Drama, 🎮Game, 🐈My Cat
 
 
-vlog: [Tistory] (https://saltedcaramel.tistory.com/,"Tistory link")
+[Tistory](https://saltedcaramel.tistory.com/)
 
 
 <!--
