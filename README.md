@@ -1,7 +1,7 @@
  Hi there 👋
 #### My name is JaeYeon Cho 😌
 
-- I'm a web developer.
+- I'm a developer.
  
 #### 🍎I love...
 - 💻Programming, 💪Exercise, 📺Drama, 🎮Game, 🐈My Cat
